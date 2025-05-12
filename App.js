@@ -1,3 +1,5 @@
+//psicodelico
+//para funcionar instale isso npx expo install expo-linear-gradient
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, Button, Modal, TextInput, ImageBackground, TouchableOpacity } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
